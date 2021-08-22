@@ -1,0 +1,13 @@
+﻿  navigation-project.cpp
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(10,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(17,9): warning C4101: 'b': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(17,15): warning C4101: 'r': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(41,13): warning C4101: 'By': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(40,13): warning C4101: 'Bx': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(36,13): warning C4101: 'ce': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(37,13): warning C4101: 's': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(35,13): warning C4101: 'ac': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(38,13): warning C4101: 'so': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(124,17): warning C4101: 'Y': yerel değişken başvurusu kaldırıldı
+C:\Users\elfan\source\repos\navigation-project\navigation-project\navigation-project.cpp(123,17): warning C4101: 'X': yerel değişken başvurusu kaldırıldı
+  navigation-project.vcxproj -> C:\Users\elfan\source\repos\navigation-project\Debug\navigation-project.exe
